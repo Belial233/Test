@@ -6,5 +6,4 @@ int main()
 	printf("Fuck Off!\n");
 
 	return 0;
-
 }
